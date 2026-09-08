@@ -1,7 +1,7 @@
 # Macro-pad-from-scratch
 Making a 6 key macro pad from house hold items like copper wire,foiland carboard due me not having a lap
 
-https://github.com/AbisAman-Dev/Macro-pad-from-scratch/blob/main/Macro%20Pad.jpg
+[Describe]https://github.com/AbisAman-Dev/Macro-pad-from-scratch/blob/main/Macro%20Pad.jpg
 
 so this is the macropad that i created it is just a simple macropad that has 6 keys And  also my first project.
 

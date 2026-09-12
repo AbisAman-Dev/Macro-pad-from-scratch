@@ -5,7 +5,7 @@
 const char* password = "MY_WIFI_PASSWORD";
 ​const char* phoneWebhookUrl = "https://trigger.macrodroid.com/6eff990f-9ac6-4e5c-bf67-8758473ddac2/";
 ​const int buttonPins[6] = {D1, D2, D3, D5, D6, D7};
-​const String buttonActions[6] = {"flashlight", "mute", "vol_up", "vol_down", "pause", "play"};
+​const String buttonActions[6] = {"flashlight", "mute", "back", "music_app", "pause", "play"};
 ​int lastButtonStates[6] = {HIGH, HIGH, HIGH, HIGH, HIGH, HIGH};
 ​void setup() {
 Serial.begin(115200);
